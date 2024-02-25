@@ -149,19 +149,19 @@
 <CheckBox Name="WPFInstallhelix" Content="Helix" ToolTip="Helix is a neovim alternative built in rust." Margin="0,0,2,0"/><TextBlock Name="WPFInstallhelixLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://helix-editor.com/" />
 </StackPanel>
 <StackPanel Orientation="Horizontal">
-<CheckBox Name="WPFInstalljava16" Content="OpenJDK Java 16" ToolTip="OpenJDK Java 16 is the latest version of the open-source Java development kit." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava16Link" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://adoptopenjdk.net/" />
+<CheckBox Name="WPFInstalljava8jre" Content="OpenJDK Java 8 JRE" ToolTip="OpenJDK Java 8 JRE LTS Release is an open-source implementation of the Java Platform, Standard Edition." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava8jreLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://adoptopenjdk.net/" />
 </StackPanel>
 <StackPanel Orientation="Horizontal">
-<CheckBox Name="WPFInstalljava18" Content="Oracle Java 18" ToolTip="Oracle Java 18 is the latest version of the official Java development kit from Oracle." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava18Link" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://www.oracle.com/java/" />
+<CheckBox Name="WPFInstalljava17jre" Content="OpenJDK Java 17 JRE" ToolTip="OpenJDK Java 17 JRE LTS Release is an open-source implementation of the Java Platform, Standard Edition." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava17jreLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://adoptopenjdk.net/" />
 </StackPanel>
 <StackPanel Orientation="Horizontal">
-<CheckBox Name="WPFInstalljava20" Content="Azul Zulu JDK 20" ToolTip="Azul Zulu JDK 20 is a distribution of the OpenJDK with long-term support, performance enhancements, and security updates." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava20Link" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://www.azul.com/downloads/zulu-community/" />
+<CheckBox Name="WPFInstalljava21jre" Content="OpenJDK Java 21 JRE" ToolTip="OpenJDK Java 21 JRE LTS Release is an open-source implementation of the Java Platform, Standard Edition." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava21jreLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://adoptopenjdk.net/" />
 </StackPanel>
 <StackPanel Orientation="Horizontal">
-<CheckBox Name="WPFInstalljava21" Content="Azul Zulu JDK 21" ToolTip="Azul Zulu JDK 21 is a distribution of the OpenJDK with long-term support, performance enhancements, and security updates." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava21Link" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://www.azul.com/downloads/zulu-community/" />
+<CheckBox Name="WPFInstalljava17jdk" Content="Azul Zulu Jave 17 JDK" ToolTip="Azul Zulu Jave 17 JDK is a distribution of the OpenJDK with long-term support, performance enhancements, and security updates." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava17jdkLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://www.azul.com/downloads/zulu-community/" />
 </StackPanel>
 <StackPanel Orientation="Horizontal">
-<CheckBox Name="WPFInstalljava8" Content="OpenJDK Java 8" ToolTip="OpenJDK Java 8 is an open-source implementation of the Java Platform, Standard Edition." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava8Link" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://adoptopenjdk.net/" />
+<CheckBox Name="WPFInstalljava21jdk" Content="Azul Zulu Java 21 JDK" ToolTip="Azul Zulu Java 21 JDK is a distribution of the OpenJDK with long-term support, performance enhancements, and security updates." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljava21jdkLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://www.azul.com/downloads/zulu-community/" />
 </StackPanel>
 <StackPanel Orientation="Horizontal">
 <CheckBox Name="WPFInstalljetbrains" Content="Jetbrains Toolbox" ToolTip="Jetbrains Toolbox is a platform for easy installation and management of JetBrains developer tools." Margin="0,0,2,0"/><TextBlock Name="WPFInstalljetbrainsLink" Style="{StaticResource HoverTextBlockStyle}" Text="(?)" ToolTip="https://www.jetbrains.com/toolbox/" />
